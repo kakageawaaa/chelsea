@@ -1,0 +1,30 @@
+# Chelsea FC Top Players 2023
+
+This repository contains information about the top 10 players of Chelsea FC for the 2023 season.
+
+## Players
+
+1. [Robert Sánchez](https://www.premierleague.com/clubs/4/Chelsea/squad) - Goalkeeper[^1^][1]
+2. [Axel Disasi](https://www.transfermarkt.co.uk/fc-chelsea/kader/verein/631/saison_id/2023) - Defender[^2^][2]
+3. [Marc Cucurella](https://www.premierleague.com/clubs/4/Chelsea/squad) - Left-Back[^1^][1]
+4. [Benoît Badiashile](https://www.transfermarkt.co.uk/fc-chelsea/kader/verein/631/saison_id/2023) - Centre-Back[^2^][2]
+5. [Thiago Silva](https://www.transfermarkt.co.uk/fc-chelsea/kader/verein/631/saison_id/2023) - Centre-Back[^2^][2]
+6. [Raheem Sterling](https://www.transfermarkt.co.uk/fc-chelsea/kader/verein/631/saison_id/2023) - Left Winger[^2^][2]
+7. [Enzo Fernández](https://www.transfermarkt.co.uk/fc-chelsea/kader/verein/631/saison_id/2023) - Central Midfield[^2^][2]
+8. [Mykhailo Mudryk](https://www.transfermarkt.co.uk/fc-chelsea/kader/verein/631/saison_id/2023) - Left Winger[^2^][2]
+9. [Conor Gallagher](https://www.transfermarkt.co.uk/fc-chelsea/kader/verein/631/saison_id/2023) - Central Midfield[^2^][2]
+10. [Christopher Nkunku](https://www.transfermarkt.co.uk/fc-chelsea/kader/verein/631/saison_id/2023) - Attacking Midfield[^2^][2]
+
+## Repository Structure
+
+- `README.md`: This file, containing an overview of the repository.
+- `players/`: A directory containing individual markdown files for each player. Each file includes details about the player's position, stats, and history with Chelsea FC.
+- `images/`: A directory containing images of the players. Each image file is named after the corresponding player.
+
+## Contributing
+
+Contributions are welcome! Please read the contributing guidelines before getting started.
+
+## License
+
+This project is licensed under the MIT License. See `LICENSE` for more details.
